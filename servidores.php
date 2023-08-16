@@ -10,8 +10,14 @@
 
     <a href="index.php">MENU  </a><BR><BR>
 
-ID <input type="text" SIZE=5 name="ID_SERVIDOR"><BR><BR>
-SERVIDOR: <input type="text" name="SERVIDOR"><BR><BR>
+  <form action="" method="post">
+            <label for="">ID SERVIDOR: </label>
+            <input type="text" class="form-control"name="ID_SERVIDOR"value="" size="5" placeholder="ID">
+            <BR><BR>
+            <label for="">SERVIDOR: </label>
+            <input type="text" class="form-control"name="SERVIDOR"value="" size="30" placeholder="SERVIDOR">
+            <BR><BR>
+    </form>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<BR>
 GUARDAR / ACTUALIZAR / ELIMINAR / BUSCAR / REPORTE <BR>
