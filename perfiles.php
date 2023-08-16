@@ -10,9 +10,16 @@
 
     <a href="index.php">MENU  </a><BR><BR>
 
-ID <input type="text" SIZE=5 name="ID_PERFILES"><BR><BR>
-PERFIL: <input type="text" name="PERFIL"><BR><BR>
-ÁREA: <input type="text" name="AREA"><BR><BR><BR>
+   <form action="" method="post">
+            <label for="">ID PERFILES: </label>
+            <input type="text" class="form-control"name="ID_PERFILES"value="" size="5" placeholder="ID">
+            <BR><BR>
+            <label for="">PERFIL: </label>
+            <input type="text" class="form-control"name="PERFIL"value="" size="30" placeholder="PERFIL">
+            <BR><BR>
+            <input type="text" class="form-control"name="AREA"value="" size="30" placeholder="AREA">
+            <BR><BR>
+    </form>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<BR>
 GUARDAR / ACTUALIZAR / ELIMINAR / BUSCAR / REPORTE <BR>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<BR><BR>
