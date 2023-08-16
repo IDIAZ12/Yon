@@ -21,7 +21,7 @@
             <input type="text" class="form-control"name="NOMBRE"value="" size="30" placeholder="Nombre">
             <br><br>
 
-            <label for="">COREREO ELECTRONICO: </label>
+            <label for="">CORREO ELECTRONICO: </label>
             <input type="text" class="form-control"name="EMAIL"value="" size="40" placeholder="Email">
             
             <label for="">CAJA: </label>
