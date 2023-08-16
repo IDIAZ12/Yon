@@ -4,7 +4,7 @@
     <title>MENU</title>
 </head>
 <body>
-<title>CATALOGO</title>
+<H1>CATALOGO</H1>
 
     <a href="perfiles.php">PERFILES <BR></a>
     <a href="campus.php">CAMPUS<BR></a>
