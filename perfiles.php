@@ -10,13 +10,14 @@
 
     <a href="index.php">MENU  </a><BR><BR>
 
-   <form action="" method="post">
+    <form action="" method="post">
             <label for="">ID PERFILES: </label>
             <input type="text" class="form-control"name="ID_PERFILES"value="" size="5" placeholder="ID">
             <BR><BR>
             <label for="">PERFIL: </label>
             <input type="text" class="form-control"name="PERFIL"value="" size="30" placeholder="PERFIL">
             <BR><BR>
+            <label for="">AREA: </label>
             <input type="text" class="form-control"name="AREA"value="" size="30" placeholder="AREA">
             <BR><BR>
     </form>
