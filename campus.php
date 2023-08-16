@@ -9,9 +9,16 @@
 
 
     <a href="index.php">MENU  </a><BR><BR>
+    
+    <form action="" method="post">
+            <label for="">ID CAMPUS: </label>
+            <input type="text" class="form-control"name="ID_CAMPUS"value="" size="5" placeholder="ID">
+            <BR><BR>
+            <label for="">CAMPUS: </label>
+            <input type="text" class="form-control"name="CAMPUS"value="" size="30" placeholder="CAMPUS">
+    </form>
 
-ID <input type="text" SIZE=5 name="ID_CAMPUS"><BR><BR>
-CAMPUS: <input type="text" name="CAMPUS"><BR><BR>
+    <BR><BR>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<BR>
 GUARDAR / ACTUALIZAR / ELIMINAR / BUSCAR / REPORTE <BR>
