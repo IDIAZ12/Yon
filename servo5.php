@@ -37,10 +37,10 @@
     <br><br>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<BR><BR>
 USUARIO ESCRITORIO REMOTO <input type="text" size="20" name="USUARIO_EREMOTO"> 
-CONTRASEÑA ESCRITORIO REMOTO <input type="text" size="20" name="PASSWORD_EREMOTO"> <br><br>
+PASSWORD ESCRITORIO REMOTO <input type="text" size="20" name="PASSWORD_EREMOTO"> <br><br>
 
 USUARIO SERVO <input type="text" size="20" name="USUARIO_SERVO"> 
-CONTRASEÑA SERVO <input type="text" size="20" name="PASSWORD_SERVO"> <br><br>
+PASSWORD SERVO <input type="text" size="20" name="PASSWORD_SERVO"> <br><br>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<BR><BR>
 
