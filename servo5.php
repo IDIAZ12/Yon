@@ -10,12 +10,25 @@
 
         </CENTER>
         <br>
-    APELLIDO PATERNO <input type="text" name="APELLIDOPAT"> 
-    APELLIDO MATERNO <input type="text" name="APELLIDOMAT"> 
-    NOMBRE (S) <input type="text" size="30" name="NOMBRE"> <br><br>
-    CORREO ELECTRONICO <input type="text" size="40" name="EMAIL"><br><br>
-    NUMERO DE CAJA <input type="text" size="5" name="CAJA"><br><br>
-    PASSWORD CAJA <input type="text" size="20" name="PASSWORD_CAJA"><br><br>
+<form action="" method="post">
+            <label for="">APELLIDO PATERNO: </label>
+            <input type="text" class="form-control"name="APELLIDOPAT"value="" placeholder="Apellido Paterno">
+
+            <label for="">APELLIDO MATERNO: </label>
+            <input type="text" class="form-control"name="APELLIDOMAT"value="" placeholder="Apellido Materno">
+
+            <label for="">NOMBRE (S): </label>
+            <input type="text" class="form-control"name="NOMBRE"value="" size="30" placeholder="Nombre">
+            <br><br>
+
+            <label for="">COREREO ELECTRONICO: </label>
+            <input type="text" class="form-control"name="EMAIL"value="" size="40" placeholder="Email">
+            
+            <label for="">CAJA: </label>
+            <input type="text" class="form-control"name="CAJA"value="" size="5" placeholder="CAJA">
+            <label for="">PASSWORD CAJA: </label>
+            <input type="text" class="form-control"name="PASSWORD_CAJA"value="" size="20" placeholder="PASSWORD">
+</form>
     
     <H3>PERFILES</H3>
     
